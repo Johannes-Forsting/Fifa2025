@@ -5,7 +5,6 @@ using UnityEngine;
 public class GoalKeeperScript : MonoBehaviour
 {
 
-    public GameObject canvas;
     public float moveSpeed = 5f;
     public float moveDistance = 100f;
 
@@ -34,12 +33,6 @@ public class GoalKeeperScript : MonoBehaviour
         }
     }
 
-    private void OnCollisionEnter(Collision collision)
-    {
-        if (collision.collider.CompareTag("Ball"))
-        {
-            canvas.SetActive(true);
-        }
-    }
+    
 
 }

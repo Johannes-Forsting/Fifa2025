@@ -363,12 +363,13 @@
 "Assets/Prefabs/Supercyan Character Pack Free Sample/Scripts/DemoFree.cs"
 "Assets/Prefabs/Supercyan Character Pack Free Sample/Scripts/FreeCameraLogic.cs"
 "Assets/Prefabs/Supercyan Character Pack Free Sample/Scripts/SimpleSampleCharacterControl.cs"
+"Assets/Scripts/BallScript.cs"
 "Assets/Scripts/ButtonScript.cs"
 "Assets/Scripts/ClockText.cs"
 "Assets/Scripts/GoalKeeperScript.cs"
-"Assets/Scripts/GoalScript.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/SmoothCameraFollow.cs"
+"Assets/Scripts/StreakerScript.cs"
 -langversion:9.0
 
 /deterministic
